@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "API que devolve uma lista de clientes paginada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAlves12/smart-challenge-backend.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "clientes"
+  ],
+  "author": "Miguel de Souza Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelAlves12/smart-challenge-backend/issues"
+  },
+  "homepage": "https://github.com/MiguelAlves12/smart-challenge-backend#readme"
+}

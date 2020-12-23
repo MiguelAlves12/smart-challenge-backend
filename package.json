@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/MiguelAlves12/smart-challenge-backend/issues"
   },
-  "homepage": "https://github.com/MiguelAlves12/smart-challenge-backend#readme"
+  "homepage": "https://github.com/MiguelAlves12/smart-challenge-backend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }

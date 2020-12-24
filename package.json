@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MiguelAlves12/smart-challenge-backend.git"
+    "url": "git+https://github.com/MiguelAlves12/smarts-challenge-javascript-nodejs-vuejs.git"
   },
   "keywords": [
     "api",
@@ -19,9 +19,9 @@
   "author": "Miguel de Souza Alves",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MiguelAlves12/smart-challenge-backend/issues"
+    "url": "https://github.com/MiguelAlves12/smarts-challenge-javascript-nodejs-vuejs.git/issues"
   },
-  "homepage": "https://github.com/MiguelAlves12/smart-challenge-backend#readme",
+  "homepage": "https://github.com/MiguelAlves12/smarts-challenge-javascript-nodejs-vuejs.git#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cors": "^2.8.5",
